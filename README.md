@@ -1,6 +1,6 @@
 ### Hi there, I'm Wen  👋
 
-## I'm a developer, and lover of tecnology and basketball.
+## I'm a full stack developer and lover of all things tech and basketball.
 
 - 🌱 I’m currently learning python and javascript 
 - ⚡ Fun fact: I love to travel and eat everything 🤣
