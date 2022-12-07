@@ -1,6 +1,6 @@
 ### Hi there, I'm Wen  👋
 
-## I'm a developer, and lover of all things tech and basketball.
+## I'm a developer.
 
 - 🌱 Always growing and learning new technologies 
 - ⚡ Fun fact: I love traveling and trying new things 
