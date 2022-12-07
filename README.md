@@ -34,7 +34,6 @@
 
 ---
 
-<img align="left" alt="wjen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wjen&show_icons=true&hide_border=true" />
 
 [website]: http://iamwenjen.com/
 [linkedin]: https://linkedin.com/in/wen-jen
